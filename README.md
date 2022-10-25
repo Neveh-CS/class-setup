@@ -22,6 +22,7 @@
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
 ## Setting up virtual environments
+#### Virtual environments are used to prevent packages you are installing into your python project from installing onto your whole system
 
 * ## For Mac/Linux users
   * Install virtualenv `python3 -m pip install --user virtualenv`
@@ -34,6 +35,11 @@
   * From inside your project folder run, `py -m venv env` "env" being the name u want to use for this environment
   * To activate this environment run, `.\env\Scripts\activate`
 
+* to exit and environment use `deactivate`
+* while inside an environment you can install packages with Pip and they will only install into that project
+* you can save a list of your installed packages with `pip freeze > requirements.txt`
+* you can now automatically install all the necessary packages (dependancies) with `pip install -r requirements.txt`
+* Using a requirements.txt file means that you no longer have to store all these packages inside your repo and anyone who wants to use your code can install them into their own environment
 
 
 
