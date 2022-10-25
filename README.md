@@ -4,9 +4,10 @@ ___
 
 # Step 1
 
-* ## Make a github acoount
+* ## Make a Github account
   * This is a tool for storing and collaborating on code
-  * its also used together with Git for version control (i will explain all of this) 
+  * its also used together with Git for version control (i will explain all of this)
+  * you can create an account [here](https://github.com/signup?source=login)
 
 * ## Install Git
   * Download Git from [Git Website](https://git-scm.com/)
@@ -47,7 +48,7 @@ ___
 * to exit and environment use `deactivate`
 * while inside an environment you can install packages with Pip and they will only install into that project
 * you can save a list of your installed packages with `pip freeze > requirements.txt`
-* you can now automatically install all the necessary packages (dependancies) with `pip install -r requirements.txt`
+* you can now automatically install all the necessary packages (dependencies) with `pip install -r requirements.txt`
 * Using a requirements.txt file means that you no longer have to store all these packages inside your repo and anyone who wants to use your code can install them into their own environment
 ---
 
