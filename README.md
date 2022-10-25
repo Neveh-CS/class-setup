@@ -22,6 +22,7 @@ ___
   * Install it
   * Sign into your github account
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+---
 
 # Step 2
 ## Setting up virtual environments
@@ -43,7 +44,7 @@ ___
 * you can save a list of your installed packages with `pip freeze > requirements.txt`
 * you can now automatically install all the necessary packages (dependancies) with `pip install -r requirements.txt`
 * Using a requirements.txt file means that you no longer have to store all these packages inside your repo and anyone who wants to use your code can install them into their own environment
-
+---
 
 # Step 3
 ## this will be needed once we start to use more complex tools
