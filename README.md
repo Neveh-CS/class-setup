@@ -10,18 +10,17 @@ ___
   * you can create an account [here](https://github.com/signup?source=login)
 
 * ## Install Git
-  * Download Git from [Git Website](https://git-scm.com/)
+  * Download and install Git from [Git Website](https://git-scm.com/)
 
 
 * ## Install Python
-  * Download from [Python.org](https://www.python.org/downloads/)
+  * Download and install from [Python.org](https://www.python.org/downloads/)
   * this will also install Pip which we will use to install packages into our python projects
 
 
 * ## Install Vscode
   * This will be your main text editor/IDE 
-  * Download Vscode from [VisualStudioCode](https://code.visualstudio.com/?wt.mc_id=DX_841432)
-  * Install it
+  * Download and install Vscode from [VisualStudioCode](https://code.visualstudio.com/?wt.mc_id=DX_841432)
   * Sign into your github account
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
