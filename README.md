@@ -58,7 +58,7 @@ ___
   * you can now use `choco install [package name]` to install things via your cli
 ---
 
-# Some Documentation that you might want to read BONUS POINTS!!!
+# Some Documentation that you might want to read
 
 * [Python Docs](https://www.python.org/doc/) 
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
