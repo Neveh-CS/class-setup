@@ -1,6 +1,5 @@
-# Welcome to Python
+# **Welcome to Python**
 ___
----
 ---
 
 # Step 1
