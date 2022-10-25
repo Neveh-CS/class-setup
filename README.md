@@ -23,6 +23,8 @@ ___
   * Install it
   * Sign into your github account
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+
+* You will want to make a folder in your Documents folder called "dev" for all your project folders
 ---
 
 # Step 2
