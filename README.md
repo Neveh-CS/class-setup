@@ -45,10 +45,6 @@ ___
 * Using a requirements.txt file means that you no longer have to store all these packages inside your repo and anyone who wants to use your code can install them into their own environment
 
 
-
-
-
-
 # Step 3
 ## this will be needed once we start to use more complex tools
 * ## For Mac users
@@ -61,3 +57,13 @@ ___
   * ```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))```
   * you can now use `choco install [package name]` to install things via your cli
 
+# Some Documentation that you might want to read BONUS POINTS!!!
+
+* [Python Docs](https://www.python.org/doc/) 
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Python Cheatsheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
+* [Python Environments Help](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#:~:text=To%20create%20a%20virtual%20environment,virtualenv%20in%20the%20below%20commands.&text=The%20second%20argument%20is%20the,project%20and%20call%20it%20env%20.)
+
+# Some Youtube videos to get u started
+* [Mosh Hamedani's Python Course](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+* [Fireship's Github Tutorial](https://www.youtube.com/watch?v=HkdAHXoRtos)
