@@ -29,7 +29,7 @@ ___
 # Step 2
 ## Setting up virtual environments
 #### Virtual environments are used to prevent packages you are installing into your python project from installing onto your whole system
-#### **_Any code highlighted in grey is code that should be run in your Terminal/Powershell_**
+#### **_Any code `highlighted in grey` is code that should be run in your Terminal/Powershell_**
 
 * ## For Mac/Linux users
   * Install virtualenv `python3 -m pip install --user virtualenv`
