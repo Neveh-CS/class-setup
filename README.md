@@ -1,5 +1,7 @@
 # Welcome to Python
-### heres what ya gottta do
+___
+
+# Step 1
 
 * ## Make a github acoount
   * This is a tool for storing and collaborating on code
@@ -21,6 +23,7 @@
   * Sign into your github account
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
+# Step 2
 ## Setting up virtual environments
 #### Virtual environments are used to prevent packages you are installing into your python project from installing onto your whole system
 
@@ -46,7 +49,7 @@
 
 
 
-# Step 2
+# Step 3
 ## this will be needed once we start to use more complex tools
 * ## For Mac users
   * Install Homebrew by pasting this command into your terminal
