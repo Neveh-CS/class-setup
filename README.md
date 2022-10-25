@@ -20,6 +20,26 @@
   * Sign into your github account
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
+## Setting up virtual envirements
+
+* ## For Mac/Linux users
+  * Install virtualenv `python3 -m pip install --user virtualenv`
+  * From inside your project folder run, `python3 -m venv env` "env" being the name u want to use for this environment
+  * To activate this environment run, `source env/bin/activate`
+
+
+* ## For Windows users
+  * Install virtualenv `py -m pip install --user virtualenv`
+  * From inside your project folder run, `py -m venv env` "env" being the name u want to use for this environment
+  * To activate this environment run, `.\env\Scripts\activate`
+
+
+
+
+
+
+
+
 # Step 2
 ## this will be needed once we start to use more complex tools
 * ## For Mac users
