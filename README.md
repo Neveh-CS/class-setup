@@ -10,11 +10,11 @@ ___
   * its also used together with Git for version control (i will explain all of this) 
 
 * ## Install Git
-  * Download Python from [Git](https://git-scm.com/)
+  * Download Git from [Git Website](https://git-scm.com/)
 
 
 * ## Install Python
-  * Download Python from [Python.org](https://www.python.org/downloads/)
+  * Download from [Python.org](https://www.python.org/downloads/)
   * this will also install Pip which we will use to install packages into our python projects
 
 
