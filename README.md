@@ -25,7 +25,7 @@ ___
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
 * You will want to make a folder in your Documents folder called "dev" for all your project folders
-* you will also need a good monospace font for coding, i recommend [Moinoid](https://larsenwork.com/monoid/) or [FiraCode](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip) (i will show you how to install this into Vscode)
+* you will also need a good monospace font for coding, i recommend [Monoid](https://larsenwork.com/monoid/) or [FiraCode](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip) (i will show you how to install this into Vscode)
 ---
 
 # Step 2
