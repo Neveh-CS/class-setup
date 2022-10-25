@@ -56,6 +56,7 @@ ___
   * Install Chocolatey by pasting this command into Powershell (run as administrator)
   * ```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))```
   * you can now use `choco install [package name]` to install things via your cli
+---
 
 # Some Documentation that you might want to read BONUS POINTS!!!
 
