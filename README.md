@@ -16,6 +16,8 @@ ___
 * ## Install Python
   * Download and install from [Python.org](https://www.python.org/downloads/)
   * this will also install Pip which we will use to install packages into our python projects
+  * **Make sure to click the box that says "Add Python 3.x to PATH"**
+
 
 
 * ## Install Vscode
