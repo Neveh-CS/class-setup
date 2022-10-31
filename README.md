@@ -9,22 +9,21 @@ ___
   * its also used together with Git for version control (i will explain all of this)
   * you can create an account [here](https://github.com/signup?source=login)
 
-* ## Install Git
-  * Download and install Git from [Git Website](https://git-scm.com/)
-
-
 * ## Install Python
   * Download and install from [Python.org](https://www.python.org/downloads/)
   * this will also install Pip which we will use to install packages into our python projects
   * **Make sure to click the box that says "Add Python 3.x to PATH"**
-
-
 
 * ## Install Vscode
   * This will be your main text editor/IDE 
   * Download and install Vscode from [VisualStudioCode](https://code.visualstudio.com/?wt.mc_id=DX_841432)
   * Sign into your github account
   * Install the extensions we will need for Python into vscode from [here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+
+* ## Install Git
+  * Download and install Git from [Git Website](https://git-scm.com/)
+  * select Vscode as your default text editor when asked
+
 
 * You will want to make a folder in your Documents folder called "dev" for all your project folders
 * you will also need a good monospace font for coding, i recommend [Monoid](https://larsenwork.com/monoid/) or [FiraCode](https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip) (i will show you how to install this into Vscode)
